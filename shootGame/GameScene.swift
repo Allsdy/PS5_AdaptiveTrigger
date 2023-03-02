@@ -19,7 +19,6 @@ class GameScene: SKScene {
     var bulletPosition = CGPoint(x: -120, y: -304.0)
     
     var bulletNameTag = 0
-//    var bullets = [SKSpriteNode]()
     
 //    var holdingTrigger = false
     
